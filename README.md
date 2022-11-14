@@ -4,4 +4,6 @@
 
 ➤ A web system to manage university merit calcalculation.
 
+➤ Assignment Project of Web Engineering
+
 ➤ Programming languages: HTML | Javascript | CSS | PHP
